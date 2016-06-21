@@ -1,0 +1,22 @@
+﻿[Информационная база]
+Connect=File="C:\Users\savage\Documents\InfoBase";
+ID=251055ba-50fd-400e-949f-a0139197e042
+OrderInList=16384
+Folder=/tmp
+OrderInTree=16384
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[FinDB]
+Connect=File="C:\work\db\FinDB\fin-old";
+ID=e9dc9ed7-f1d3-4840-b7dd-57e1a229e019
+OrderInList=16640
+Folder=/HFL
+OrderInTree=16384
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
