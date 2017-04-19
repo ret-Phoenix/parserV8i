@@ -1,3 +1,6 @@
+2017-04-18 ret-Phoenix dev@itpath.ru
+    [fixed] Разделитель строк для Linux
+
 2017-03-14 ret-Phoenix dev@itpath.ru
 
     [fixed] разделение строки на подстроки
