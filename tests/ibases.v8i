@@ -22,6 +22,18 @@ App=Auto
 WA=1
 Version=8.3
 
+[FinDB3]
+Connect=File="C:\work\db\FinDB3"
+ID=02f916ac-feb7-404d-a064-8c72b2b71230
+OrderInList=16640
+Folder=/FinData
+OrderInTree=16384
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+
 [WS]
 Connect=ws="http://localhost/lessons/";
 ID=adf43e51-6a24-4355-b748-265dfae64794
